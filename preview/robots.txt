@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: file:///C:\Users\itddd\Documents\Publii\sites\publitst\preview/sitemap.xml

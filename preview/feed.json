@@ -1,0 +1,80 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "publitst",
+    "description": "",
+    "home_page_url": "file:///C:\Users\itddd\Documents\Publii\sites\publitst\preview",
+    "feed_url": "file:///C:\Users\itddd\Documents\Publii\sites\publitst\preview/feed.json",
+    "user_comment": "",
+    "icon": "file:///C:/Users/itddd/Documents/Publii/sites/publitst/preview/media/website/logo_raiiar.jpg",
+    "author": {
+        "name": "Me"
+    },
+    "items": [
+        {
+            "id": "file:///C:\Users\itddd\Documents\Publii\sites\publitst\preview/dw-live.html",
+            "url": "file:///C:\Users\itddd\Documents\Publii\sites\publitst\preview/dw-live.html",
+            "title": "DW - Live",
+            "content_html": "<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"900\" height=\"506\" src=\"https://www.youtube.com/embed/GE_SfNVNyqk\" title=\"DW News livestream | Headline news from around the world\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"allowfullscreen\"></iframe></div>",
+            "author": {
+                "name": "Me"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-10-21T14:48:31+01:00",
+            "date_modified": "2022-10-21T14:48:31+01:00"
+        },
+        {
+            "id": "file:///C:\Users\itddd\Documents\Publii\sites\publitst\preview/bloomberg-now.html",
+            "url": "file:///C:\Users\itddd\Documents\Publii\sites\publitst\preview/bloomberg-now.html",
+            "title": "UN - Live",
+            "content_html": "<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"900\" height=\"506\" src=\"https://www.youtube.com/embed/9CdY7t5VKIY\" title=\"United Nations - LIVE\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"allowfullscreen\"></iframe></div>",
+            "author": {
+                "name": "Me"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-10-21T14:39:08+01:00",
+            "date_modified": "2022-10-21T14:46:28+01:00"
+        },
+        {
+            "id": "file:///C:\Users\itddd\Documents\Publii\sites\publitst\preview/aljazeera.html",
+            "url": "file:///C:\Users\itddd\Documents\Publii\sites\publitst\preview/aljazeera.html",
+            "title": "Aljazeera",
+            "content_html": "<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"900\" height=\"506\" src=\"https://www.youtube.com/embed/F-POY4Q0QSI\" title=\"🔴 Al Jazeera English | Live\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"allowfullscreen\"></iframe></div>",
+            "author": {
+                "name": "Me"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-10-21T14:33:43+01:00",
+            "date_modified": "2022-10-21T14:33:43+01:00"
+        },
+        {
+            "id": "file:///C:\Users\itddd\Documents\Publii\sites\publitst\preview/bbciplayer.html",
+            "url": "file:///C:\Users\itddd\Documents\Publii\sites\publitst\preview/bbciplayer.html",
+            "title": "SkyNews",
+            "content_html": "<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"976\" height=\"550\" src=\"https://www.youtube.com/embed/9Auq9mYxFEE\" title=\"Watch Sky News live\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"allowfullscreen\"></iframe></div>",
+            "author": {
+                "name": "Me"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-10-21T14:27:16+01:00",
+            "date_modified": "2022-10-21T14:31:19+01:00"
+        },
+        {
+            "id": "file:///C:\Users\itddd\Documents\Publii\sites\publitst\preview/sir-keir-starmers-greatest-speach.html",
+            "url": "file:///C:\Users\itddd\Documents\Publii\sites\publitst\preview/sir-keir-starmers-greatest-speach.html",
+            "title": "Sir Keir Starmer&#x27;s Greatest Speach",
+            "summary": "Video content 1,103 views Jul 13, 2022 Keir Starmer has criticised Tory candidates for \"re-writing the history\" of Boris Johnson scandals. \"Rather than desperately rewriting history, they should at least explain exactly where they always get cash from\", the Labour leader said during prime minister's&hellip;",
+            "content_html": "<figure class=\"lx-stream-post-body__media-asset lx-media-asset lx-media-asset--landscape lx-media-asset--smp qa-media-asset-smp\" data-reactid=\".28zz12jb7q2.0.2.0.0.1.0.1.0.$lx-tabs0.0.$lx-commentary.$lx-commentary.2.0.1.1.1:$post-63528b1992171f0e39be8e18.0.6.0.0:$post_0.0\">\n<h4 class=\"gs-u-vh qa-map-smp-accessible-title align-center\" data-reactid=\".28zz12jb7q2.0.2.0.0.1.0.1.0.$lx-tabs0.0.$lx-commentary.$lx-commentary.2.0.1.1.1:$post-63528b1992171f0e39be8e18.0.6.0.0:$post_0.0.0\">Video content</h4>\n<div class=\"lx-media-asset__body align-center\" data-reactid=\".28zz12jb7q2.0.2.0.0.1.0.1.0.$lx-tabs0.0.$lx-commentary.$lx-commentary.2.0.1.1.1:$post-63528b1992171f0e39be8e18.0.6.0.0:$post_0.0.1\">\n<div class=\"gs-o-responsive-image gs-o-responsive-image--16by9\" data-reactid=\".28zz12jb7q2.0.2.0.0.1.0.1.0.$lx-tabs0.0.$lx-commentary.$lx-commentary.2.0.1.1.1:$post-63528b1992171f0e39be8e18.0.6.0.0:$post_0.0.1.0\">\n<div class=\"smp-embed\" data-reactid=\".28zz12jb7q2.0.2.0.0.1.0.1.0.$lx-tabs0.0.$lx-commentary.$lx-commentary.2.0.1.1.1:$post-63528b1992171f0e39be8e18.0.6.0.0:$post_0.0.1.0.0\">\n<div id=\"bbcMediaPlayer1\" class=\"smp\" data-reactid=\".28zz12jb7q2.0.2.0.0.1.0.1.0.$lx-tabs0.0.$lx-commentary.$lx-commentary.2.0.1.1.1:$post-63528b1992171f0e39be8e18.0.6.0.0:$post_0.0.1.0.0.0\">\n<div id=\"smphtml5iframebbcMediaPlayer1wrp\" style=\"border-bottom: 0px; z-index: 999; position: relative; height: 100%; width: 100%; padding-bottom: 56.25%;\"><div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"853\" height=\"480\" src=\"https://www.youtube.com/embed/V_07nMxn4MA\" title=\"Tory leadership candidates ‘rewriting history’ of Boris Johnson’s tax rises, Starmer says\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"allowfullscreen\"></iframe></div>\n<div id=\"info-container\" class=\"style-scope ytd-watch-metadata\"><span class=\"style-scope yt-formatted-string bold\" dir=\"auto\">1,103 views</span> <span class=\"style-scope yt-formatted-string bold\" dir=\"auto\">Jul 13, 2022</span></div>\n<span class=\"style-scope yt-formatted-string\" dir=\"auto\">Keir Starmer has criticised Tory candidates for \"re-writing the history\" of Boris Johnson scandals. \"Rather than desperately rewriting history, they should at least explain exactly where they always get cash from\", the Labour leader said during prime minister's questions. Speaking at PMQs on Wednesday, the prime minister declined to endorse a successor and suggested the session could be his last. Watch more videos at the Independent TV: </span><a class=\"yt-simple-endpoint style-scope yt-formatted-string\" spellcheck=\"false\" href=\"https://www.youtube.com/redirect?event=video_description&amp;redir_token=QUFFLUhqa1N4N2FLNDhKbTRWU1h1TElXaFREMjFmTEFmUXxBQ3Jtc0tsYkRZVzVfLWNpVE02Q2pOWXpvTEE0MlJGb0phSnF0WjVFZnJTYTlwUWZlVTVsVkU1MEVFUFNNTVJOTFFQdWZhNkJGQ1ByQmtkZzgtb2txemVSY3NnbVBYY01fdUpxeFdsWHI1NEc5clUxdV8xb3FwNA&amp;q=https%3A%2F%2Fwww.independent.co.uk%2Ftv%2Feditors-picks&amp;v=V_07nMxn4MA\" rel=\"nofollow noopener\" target=\"_blank\" dir=\"auto\">https://www.independent.co.uk/tv/edit...</a><span class=\"style-scope yt-formatted-string\" dir=\"auto\"> Like us on Facebook: </span><a class=\"yt-simple-endpoint style-scope yt-formatted-string\" spellcheck=\"false\" href=\"https://www.youtube.com/redirect?event=video_description&amp;redir_token=QUFFLUhqblRiZWdxUktYalVsMUJLR2JFYldnQVVoVXRlZ3xBQ3Jtc0tsTkcxaXRuRkZTNlFEd290bEVFdnNYUFpHenpkVlVEU1BVcWRHQm9LSUJkem1LMFVZMnB4Y05UbUpwMThxSlhCVVpaa3pqaHNUZlF0bExTOEt0Zlh0eFdCZC1zX0FuM2QxMDhlZVBsZzBvSE93VmNwcw&amp;q=https%3A%2F%2Fwww.facebook.com%2FTheIndependentOnline&amp;v=V_07nMxn4MA\" rel=\"nofollow noopener\" target=\"_blank\" dir=\"auto\">https://www.facebook.com/TheIndepende...</a><span class=\"style-scope yt-formatted-string\" dir=\"auto\"> Follow us on Twitter: </span><a class=\"yt-simple-endpoint style-scope yt-formatted-string\" spellcheck=\"false\" href=\"https://www.youtube.com/redirect?event=video_description&amp;redir_token=QUFFLUhqblhKWHB6bjdaMTFPMDZ6QjlxR1RmeFFQdUZZd3xBQ3Jtc0ttbHdMOEZpUU9raGNaVzZVY2hDeWc1d29tUVNTTWl1UGhxRUNXSmxPTjk3MXBta1FXRDUwaFVCdlkyYUl0SGRndi1meEE4cldVMVYwVWtUbHQxZ2NFa3g3R2xjcWZCS2FvZlo3RnVqQkx6aUZpb3JqUQ&amp;q=https%3A%2F%2Ftwitter.com%2FIndependent&amp;v=V_07nMxn4MA\" rel=\"nofollow noopener\" target=\"_blank\" dir=\"auto\">https://twitter.com/Independent</a><span class=\"style-scope yt-formatted-string\" dir=\"auto\"> Follow us on Instagram: </span><a class=\"yt-simple-endpoint style-scope yt-formatted-string\" spellcheck=\"false\" href=\"https://www.youtube.com/redirect?event=video_description&amp;redir_token=QUFFLUhqay1KUTFWVHBieE1QdFRhS281RXFJd2hLd0FjQXxBQ3Jtc0tuZklvdHJKdnktNjk3ZTJFQWx3V2MxY3h5bXBDeWVoUURLRDdCM3hQRGd6QVJJZXVtR0gyZkRnMWl2ckEtX1lGb092eFQzRW1xWmtsYTctMF85WExJZVI5Y1RGOTQ3c0RFY0lUUkN3eEdZeUw3NnNxYw&amp;q=https%3A%2F%2Fwww.instagram.com%2Fthe.independent&amp;v=V_07nMxn4MA\" rel=\"nofollow noopener\" target=\"_blank\" dir=\"auto\">https://www.instagram.com/the.indepen...</a><span class=\"style-scope yt-formatted-string\" dir=\"auto\"> Subscribe to Independent Premium for exclusive content and live events: </span><a class=\"yt-simple-endpoint style-scope yt-formatted-string\" spellcheck=\"false\" href=\"https://www.youtube.com/redirect?event=video_description&amp;redir_token=QUFFLUhqa1FsVTlZV1hDdW43UUpYcUZJZjd3SVdBQ2w2QXxBQ3Jtc0trek9hYjJHRHVRX3Z5b3hBUEFEV0E1NjVPT01hcFd5SE4wUGVPVWhDTHRpTVRVQ1lIY0NqYUtKX0lDZjFFT0UxVFFIMEd4bzM4Zk5VN3pGQnpTd0dTU2hUUmZHWlJRYzlTYldVLWF2bjMtbUZZX1BqVQ&amp;q=https%3A%2F%2Fbit.ly%2F2MiOONB&amp;v=V_07nMxn4MA\" rel=\"nofollow noopener\" target=\"_blank\" dir=\"auto\">https://bit.ly/2MiOONB</a></div>\n<div> </div>\n<div> </div>\n</div>\n</div>\n</div>\n</div>\n<figcaption class=\"lx-media-asset__caption gel-brevier\" data-reactid=\".28zz12jb7q2.0.2.0.0.1.0.1.0.$lx-tabs0.0.$lx-commentary.$lx-commentary.2.0.1.1.1:$post-63528b1992171f0e39be8e18.0.6.0.0:$post_0.0.2\"><span class=\"gs-u-vh qa-media-smp-accessible-caption-text\" data-reactid=\".28zz12jb7q2.0.2.0.0.1.0.1.0.$lx-tabs0.0.$lx-commentary.$lx-commentary.2.0.1.1.1:$post-63528b1992171f0e39be8e18.0.6.0.0:$post_0.0.2.0\">Video caption: Conservative leadership: Tories declared Johnson unfit for office says Keir Starmer</span><span class=\"qa-media-smp-caption-text\" aria-hidden=\"true\" data-reactid=\".28zz12jb7q2.0.2.0.0.1.0.1.0.$lx-tabs0.0.$lx-commentary.$lx-commentary.2.0.1.1.1:$post-63528b1992171f0e39be8e18.0.6.0.0:$post_0.0.2.1\">Conservative leadership: Tories declared Johnson unfit for office says Keir Starmer</span></figcaption>\n</figure>",
+            "author": {
+                "name": "Me"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-10-21T14:07:29+01:00",
+            "date_modified": "2022-10-21T14:24:15+01:00"
+        }
+    ]
+}
